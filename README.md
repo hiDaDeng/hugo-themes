@@ -5,17 +5,15 @@
 ## 简洁
 
 - [congo](https://github.com/jpanther/congo)
-
 - [gokarna](https://github.com/526avijitgupta/gokarna)
 - [SimpleIntro](https://github.com/gangjun06/SimpleIntro)
 - [ananke](https://github.com/theNewDynamic/gohugo-theme-ananke)
-- 
+
 
 ## 博客
 
 - [toha](https://github.com/hugo-toha/toha)
 - [tranquilpeak](https://github.com/kakawait/hugo-tranquilpeak-theme)
-
 - [blist](https://github.com/apvarun/blist-hugo-theme)
 
   
@@ -51,4 +49,4 @@
 
 - [freshstart](https://github.com/rz3n/hugo-theme-freshstart)
 
-- [startpage](
+- [startpage](https://github.com/spech66/bootstrap-bp-hugo-startpage)
