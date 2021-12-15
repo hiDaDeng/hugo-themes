@@ -8,7 +8,7 @@
 - [gokarna](https://github.com/526avijitgupta/gokarna)
 - [SimpleIntro](https://github.com/gangjun06/SimpleIntro)
 - [ananke](https://github.com/theNewDynamic/gohugo-theme-ananke)
-
+- [hugo-theme-chunky-poster](https://github.com/puresyntax71/hugo-theme-chunky-poster)
 
 ## 博客
 
