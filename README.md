@@ -40,6 +40,7 @@
 - [roxo](https://github.com/StaticMania/roxo-hugo)
 
 ##  极客
+- [somrat](https://github.com/somratpro/somrat) 推荐
 
 - [terminal](https://github.com/panr/hugo-theme-terminal)
 
