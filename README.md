@@ -30,6 +30,8 @@
 
 ## 商业
 
+- [influencer](https://github.com/gethugothemes/influencer-hugo) 教育类
+- [simple-snipcart-shop](https://github.com/tylerjlawson/simple-snipcart-shop)  simple-snipcart-shop
 - [airspace](https://github.com/themefisher/airspace-hugo) 打开速度88%
 - [tella](https://github.com/opera7133/tella) 
 - [educenter](https://github.com/themefisher/academia-hugo)  打开速度86%
