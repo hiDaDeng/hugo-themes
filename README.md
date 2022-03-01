@@ -1,7 +1,6 @@
 收藏的Hugo主题
 
 
-
 ## 简洁
 
 - [congo](https://github.com/jpanther/congo)
@@ -29,7 +28,7 @@
   
 
 ## 商业
-
+- [倒计时](https://github.com/gethugothemes/infinity-hugo) 首页有活动倒计时
 - [influencer](https://github.com/gethugothemes/influencer-hugo) 教育类
 - [simple-snipcart-shop](https://github.com/tylerjlawson/simple-snipcart-shop)  simple-snipcart-shop
 - [airspace](https://github.com/themefisher/airspace-hugo) 打开速度88%
